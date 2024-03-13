@@ -1,0 +1,12 @@
+    /* Estilos personalizados */
+    .content {
+        padding: 20px;
+      }
+
+      body {
+        background-color: #050505; /* Substitua #f0f0f0 pela cor desejada */
+      }
+      /* Adicionando margem inferior ao carrossel */
+.carousel {
+  margin-bottom: 20px; /* margem abaixo do carousel */
+}
